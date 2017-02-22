@@ -1,0 +1,24 @@
+{
+  "name": "logr-cli",
+  "version": "0.0.1",
+  "description": "Logr reporter for cli apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firstandthird/logr-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "logr",
+    "log"
+  ],
+  "author": "Greg Allen <code@firstandthird.com> (http://firstandthird.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firstandthird/logr-cli/issues"
+  },
+  "homepage": "https://github.com/firstandthird/logr-cli#readme"
+}
